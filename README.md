@@ -1,5 +1,3 @@
-# CodeAlpha_URL-Shortener
-
 # CodeAlpha URL Shortener
 
 A backend URL Shortener API developed as part of the CodeAlpha Backend
